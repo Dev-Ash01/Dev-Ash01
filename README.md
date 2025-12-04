@@ -52,7 +52,7 @@
 
 <div align="center">
   <h3>🤝 Let's Connect</h3>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayush-patil-764958251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:youremail@example.com">
