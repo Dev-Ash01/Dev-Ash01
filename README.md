@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="analytics.gif" width="600" alt="Data Analysis Animation" />
+  <img src="analytics.gif" width="400" alt="Data Analysis Animation" />
 </div>
 
 <div align="center">
