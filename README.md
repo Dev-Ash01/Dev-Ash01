@@ -7,14 +7,16 @@
 <br>
 <br/>
 
-<img align="right" src="https://github.com/user-attachments/assets/1e70c5eb-4e0d-49ec-b2b3-9566cf2505ef" width="350" alt="Data Analysis Animation" />
+<img align="right" src="https://github.com/user-attachments/assets/a2a7069a-a206-4be5-b2bc-e3addc9d5390" width="330" alt="Data Analysis Animation" />
 
 
 ###   
 
-I am a **Data Analyst** and **Computer Science Engineer** driven by the power of data to solve complex problems. My expertise lies in bridging the gap between raw datasets and strategic decision-making. 
+I am a **Data Analyst** and **Computer Science Engineer** driven by the power of data to &emsp; &emsp; &emsp; solve complex problems. My expertise lies in bridging the gap between raw datasets &emsp; &emsp; &emsp; and strategic decision-making. 
 
-I don't just write code; I build narrative-driven insights. From gathering data and cleaning messy datasets to deploying predictive models using **Deep Learning**, I focus on the entire data lifecycle. I am currently honing my skills in MLOps and Agentic AI to create scalable, intelligent systems.
+I don't just write code; I build narrative-driven insights. From gathering data and cleaning &emsp; messy datasets to deploying predictive models using **Deep Learning**, I focus on the entire &emsp; data lifecycle. I am currently honing my skills in MLOps and Agentic AI to create scalable, intelligent systems.
+
+
 
 ### 🧐 More About Me:
 
@@ -82,8 +84,8 @@ I don't just write code; I build narrative-driven insights. From gathering data 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
----
+
+<img align="right" src="https://github.com/user-attachments/assets/e86572d0-cae9-449f-a90b-ebebcad2f4d4" width="200" alt="Data Analysis Animation" />
 
 ### 🌱 **Currently Learning**
 - **Advanced Machine Learning:** Optimizing algorithms for large-scale datasets.
