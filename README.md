@@ -12,9 +12,9 @@
 
 ###   
 
-I am a **Data Analyst** and **Computer Science Engineer** driven by the power of data to &emsp; &emsp; &emsp; solve complex problems. My expertise lies in bridging the gap between raw datasets &emsp; &emsp; &emsp; and strategic decision-making. 
+I am a **Data Analyst** and **Computer Science Engineer** driven by the power of data to  solve complex problems. My expertise lies in bridging the gap between raw datasets and strategic decision-making. 
 
-I don't just write code; I build narrative-driven insights. From gathering data and cleaning &emsp; messy datasets to deploying predictive models using **Deep Learning**, I focus on the entire &emsp; data lifecycle. I am currently honing my skills in MLOps and Agentic AI to create scalable, intelligent systems.
+I don't just write code; I build narrative-driven insights. From gathering data and cleaning  messy datasets to deploying predictive models using **Deep Learning**, I focus on the entire data lifecycle. I am currently honing my skills in MLOps and Agentic AI to create scalable, intelligent systems.
 
 
 
