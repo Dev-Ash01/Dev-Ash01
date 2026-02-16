@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350" align="right"> 
 </p>
-<img align="right" src="https://github.com/user-attachments/assets/a2a7069a-a206-4be5-b2bc-e3addc9d5390" width="330" alt="Data Analysis Animation" />
+
 
 
 ###   
