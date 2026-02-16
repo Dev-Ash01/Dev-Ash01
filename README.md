@@ -6,7 +6,9 @@
 
 <br>
 <br/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350" align="right"> 
+</p>
 <img align="right" src="https://github.com/user-attachments/assets/a2a7069a-a206-4be5-b2bc-e3addc9d5390" width="330" alt="Data Analysis Animation" />
 
 
@@ -126,3 +128,4 @@ I don't just write code; I build narrative-driven insights. From gathering data 
 <a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
 
 ###
+<img src="https://raw.githubusercontent.com/milansamuel609/milansamuel609/output/snake.svg" alt="Snake animation" />
