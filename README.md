@@ -39,6 +39,7 @@ I don't just write code; I build narrative-driven insights. From gathering data 
 </p>
 
 <br clear="right"/> 
+
 ---
 
 <div align="center">
