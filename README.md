@@ -83,7 +83,7 @@ I don't just write code; I build narrative-driven insights. From gathering data 
 ### 💬 **Ask Me About**
 - **ML Frameworks:** Scikit-Learn, TensorFlow, PyTorch
 - **Data Engineering:** Feature Engineering, Data Cleaning, ETL
-- **Visualization:** Creating interactive dashboards in Tableau/PowerBI
+- **Visualization:** Creating interactive dashboards in PowerBI
 
 ---
 
@@ -93,7 +93,7 @@ I don't just write code; I build narrative-driven insights. From gathering data 
   <a href="https://github.com/Dev-Ash01/Dev-Ash01/blob/main/Machine_Learning%20(1).pdf" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-4CAF50?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
 </div>
 
 ---
